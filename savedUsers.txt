@@ -1,5 +1,0 @@
-ecem 123456
-eser 456789
-a b
-c d
-b c
